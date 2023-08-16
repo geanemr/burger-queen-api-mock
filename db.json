@@ -28,7 +28,7 @@
           }
         }
       ],
-      "status": "pending",
+      "status": "done",
       "dataEntry": "2022-03-05 15:00"
     },
     {
@@ -95,6 +95,13 @@
       "image": "https://github.com/Laboratoria/bootcamp/tree/main/projects/04-burger-queen-api/resources/images/water.jpg",
       "type": "Almuerzo",
       "id": 4
+    },
+    {
+      "name": "pão de queijo",
+      "price": "5,00",
+      "image": "https://raw.githubusercontent.com/ssinuco/burger-queen-api-mock/main/resources/images/sandwich.png",
+      "type": "lanche",
+      "id": 5
     }
   ],
   "users": [
@@ -111,10 +118,22 @@
       "id": 2
     },
     {
-      "email": "nara.sakamoto@laboratoria.la",
-      "password": "$2a$10$VkvaBkhnm4k3KP/yCdhCgu/qtzxe7F00CVkTsAsr5pbfU8rPVZEQW",
-      "role": "admin",
-      "id": 3
+      "email": "maria@vburger.com",
+      "password": "$2a$10$br63kmXiYjSgwPq3s9o17OXH0DGw51FXIWnEXT97nnK3KbdH5tci6",
+      "role": "garçonete",
+      "id": 4
+    },
+    {
+      "email": "chef@vburger.com",
+      "password": "$2a$10$Npq0w5DmjgyDkGxCMumsd.GwM3u48FsOEiPDNRSt9k1C9OJssXzhG",
+      "id": 5,
+      "roles": "chef"
+    },
+    {
+      "email": "chef2@vburger.com",
+      "password": "$2a$10$X///JhAVLS4RAtxp97Z7U.m37PdAVYLFYQU66R4C.w/oBvm8M0Jda",
+      "id": 6,
+      "roles": "chef"
     }
   ]
 }
