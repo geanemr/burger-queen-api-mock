@@ -1,5 +1,26 @@
 {
-  "orders": [],
+  "orders": [
+    {
+      "id": 1,
+      "userId": "1",
+      "client": "Ana de Oliveira",
+      "products": [
+        {
+          "qty": 2,
+          "product": {
+            "id": "11",
+            "name": "pão de queijo",
+            "price": "5,00",
+            "type": "lanches",
+            "dataEntry": "21-08-2023 11:42:12"
+          }
+        }
+      ],
+      "status": "pendente",
+      "dateEntry": "11:40:08",
+      "dateProcessed": "11:55:43"
+    }
+  ],
   "products": [
     {
       "name": "café americano",
