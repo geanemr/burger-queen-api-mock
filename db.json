@@ -130,19 +130,19 @@
       "email": "claudia@vburger.com",
       "password": "$2a$10$7WSz96fVlz.4.8WfuN9Hje.8cjCR9wGoe1o0XA3AH0Yy0qEx2Kd1i",
       "id": 1,
-      "roles": "admin"
+      "role": "admin"
     },
     {
       "email": "joao@vburger.com",
       "password": "$2a$10$YPgi02w6gObrR7oYfmhcsOcX0Wlc7elqtXXwV68jC2RArIbyrdsQK",
       "id": 2,
-      "roles": "chef"
+      "role": "chef"
     },
     {
       "email": "pedro@vburger.com",
       "password": "$2a$10$jENvj/.Ehha2An3ASmwW7.6/YYwIbQ8UKum1M9CUWhtX1BEzferBq",
       "id": 3,
-      "roles": "garçom"
+      "role": "garçom"
     }
   ]
 }
