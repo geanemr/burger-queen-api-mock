@@ -23,10 +23,12 @@
   ],
   "products": [
     {
-      "name": "café americano",
-      "price": "5,00",
-      "type": "cafés",
-      "id": 1
+      "name": "string",
+      "price": "string",
+      "type": "string",
+      "id": 1,
+      "image": "string",
+      "dataEntry": "string"
     },
     {
       "name": "café com leite",
