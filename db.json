@@ -59,10 +59,11 @@
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/bife%20%C3%A0%20parmegiana.jpg"
     },
     {
-      "name": "prato do dia",
-      "price": "15,00",
+      "name": "lasanha de frango",
+      "price": "20,00",
       "type": "almoços",
-      "id": 6
+      "id": 6,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/lasanha%20de%20frango.jpg"
     },
     {
       "name": "hamburger simples",
@@ -110,31 +111,36 @@
       "name": "água 500ml",
       "price": "5,00",
       "type": "bebidas",
-      "id": 13
+      "id": 13,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/%C3%A1gua%20500ml.jpg"
     },
     {
       "name": "água 750ml",
       "price": "7,00",
       "type": "bebidas",
-      "id": 14
+      "id": 14,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/%C3%A1gua%20750ml.jpg"
     },
     {
       "name": "refrigerante lata",
       "price": "8,00",
       "type": "bebidas",
-      "id": 15
+      "id": 15,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/refrigerante%20lata.jpg"
     },
     {
       "name": "refrigerante 2l",
       "price": "13,00",
       "type": "bebidas",
-      "id": 16
+      "id": 16,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/refrigerante%202l.jpg"
     },
     {
       "name": "suco natural",
       "price": "10,00",
       "type": "bebidas",
-      "id": 17
+      "id": 17,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/suco%20natural.jpg"
     }
   ],
   "users": [
