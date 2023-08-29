@@ -123,17 +123,10 @@
     },
     {
       "name": "refrigerante lata",
-      "price": "8,00",
+      "price": "6,00",
       "type": "bebidas",
       "id": 15,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/refrigerante%20lata.jpg"
-    },
-    {
-      "name": "refrigerante 2l",
-      "price": "13,00",
-      "type": "bebidas",
-      "id": 16,
-      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/refrigerante%202l.jpg"
     },
     {
       "name": "suco natural",
