@@ -24,6 +24,17 @@
   "products": [
     {
       "name": "café americano",
+      "price": "5,00",
+      "type": "cafés",
+      "id": 1,
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/cafe%20americano.jpg",
+      "dataEntry": "string"
+    },
+    {
+      "name": "café com leite",
+      "price": "7,00",
+      "type": "cafés",
+      "id": 2,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/caf%C3%A9%20com%20leite.jpg"
     },
     {
