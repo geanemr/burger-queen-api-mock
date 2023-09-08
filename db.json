@@ -24,7 +24,7 @@
   "products": [
     {
       "name": "café americano",
-      "price": "5,00",
+      "price": 5,
       "type": "cafés",
       "id": 1,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/cafe%20americano.jpg",
@@ -32,105 +32,105 @@
     },
     {
       "name": "café com leite",
-      "price": "7,00",
+      "price": 7,
       "type": "cafés",
       "id": 2,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/caf%C3%A9%20com%20leite.jpg"
     },
     {
       "name": "cappuccino",
-      "price": "8,00",
+      "price": 8,
       "type": "cafés",
       "id": 3,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/capuccino.jpg"
     },
     {
       "name": "massa à bolonhesa",
-      "price": "20,00",
+      "price": 20,
       "type": "almoços",
       "id": 4,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/massa%20%C3%A0%20bolonhesa.jpg"
     },
     {
       "name": "bife à parmegiana",
-      "price": "20,00",
+      "price": 20,
       "type": "almoços",
       "id": 5,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/bife%20%C3%A0%20parmegiana.jpg"
     },
     {
       "name": "lasanha de frango",
-      "price": "20,00",
+      "price": 20,
       "type": "almoços",
       "id": 6,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/lasanha%20de%20frango.jpg"
     },
     {
       "name": "hamburger simples",
-      "price": "10,00",
+      "price": 10,
       "type": "lanches",
       "id": 7,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/hamburger%20simples.jpg"
     },
     {
       "name": "hamburger duplo",
-      "price": "15,00",
+      "price": 15,
       "type": "lanches",
       "id": 8,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/hamburger%20duplo.jpg"
     },
     {
       "name": "batata frita",
-      "price": "5,00",
+      "price": 5,
       "type": "lanches",
       "id": 9,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/batata%20frita.jpg"
     },
     {
       "name": "anéis de cebola",
-      "price": "10,00",
+      "price": 10,
       "type": "lanches",
       "id": 10,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/an%C3%A9is%20de%20cebola.jpg"
     },
     {
       "name": "pão de queijo",
-      "price": "5,00",
+      "price": 5,
       "type": "lanches",
       "id": 11,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/p%C3%A3o%20de%20queijo.jpg"
     },
     {
       "name": "sanduíche simples",
-      "price": "7,00",
+      "price": 7,
       "type": "lanches",
       "id": 12,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/sandu%C3%ADche.jpg"
     },
     {
       "name": "água 500ml",
-      "price": "5,00",
+      "price": 5,
       "type": "bebidas",
       "id": 13,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/%C3%A1gua%20500ml.jpg"
     },
     {
       "name": "água 750ml",
-      "price": "7,00",
+      "price": 7,
       "type": "bebidas",
       "id": 14,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/%C3%A1gua%20750ml.jpg"
     },
     {
       "name": "refrigerante lata",
-      "price": "6,00",
+      "price": 6,
       "type": "bebidas",
       "id": 15,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/refrigerante%20lata.jpg"
     },
     {
       "name": "suco natural",
-      "price": "10,00",
+      "price": 10,
       "type": "bebidas",
       "id": 17,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/suco%20natural.jpg"
