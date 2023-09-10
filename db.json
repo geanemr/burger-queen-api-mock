@@ -23,115 +23,114 @@
   ],
   "products": [
     {
-      "name": "café americano",
+      "name": "Café americano",
       "price": 5,
-      "type": "cafés",
+      "type": "Cafés",
       "id": 1,
-      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/cafe%20americano.jpg",
-      "dataEntry": "string"
+      "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/cafe%20americano.jpg"
     },
     {
-      "name": "café com leite",
+      "name": "Café com leite",
       "price": 7,
-      "type": "cafés",
+      "type": "Cafés",
       "id": 2,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/caf%C3%A9%20com%20leite.jpg"
     },
     {
-      "name": "cappuccino",
+      "name": "Cappuccino",
       "price": 8,
-      "type": "cafés",
+      "type": "Cafés",
       "id": 3,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/capuccino.jpg"
     },
     {
-      "name": "massa à bolonhesa",
+      "name": "Massa à bolonhesa",
       "price": 20,
-      "type": "almoços",
+      "type": "Almoços",
       "id": 4,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/massa%20%C3%A0%20bolonhesa.jpg"
     },
     {
-      "name": "bife à parmegiana",
+      "name": "Bife à parmegiana",
       "price": 20,
-      "type": "almoços",
+      "type": "Almoços",
       "id": 5,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/bife%20%C3%A0%20parmegiana.jpg"
     },
     {
-      "name": "lasanha de frango",
+      "name": "Lasanha de frango",
       "price": 20,
-      "type": "almoços",
+      "type": "Almoços",
       "id": 6,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/lasanha%20de%20frango.jpg"
     },
     {
-      "name": "hamburger simples",
+      "name": "Hamburger simples",
       "price": 10,
-      "type": "lanches",
+      "type": "Lanches",
       "id": 7,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/hamburger%20simples.jpg"
     },
     {
-      "name": "hamburger duplo",
+      "name": "Hamburger duplo",
       "price": 15,
-      "type": "lanches",
+      "type": "Lanches",
       "id": 8,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/hamburger%20duplo.jpg"
     },
     {
-      "name": "batata frita",
+      "name": "Batata frita",
       "price": 5,
-      "type": "lanches",
+      "type": "Lanches",
       "id": 9,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/batata%20frita.jpg"
     },
     {
-      "name": "anéis de cebola",
+      "name": "Anéis de cebola",
       "price": 10,
-      "type": "lanches",
+      "type": "Lanches",
       "id": 10,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/an%C3%A9is%20de%20cebola.jpg"
     },
     {
-      "name": "pão de queijo",
+      "name": "Pão de queijo",
       "price": 5,
-      "type": "lanches",
+      "type": "Lanches",
       "id": 11,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/p%C3%A3o%20de%20queijo.jpg"
     },
     {
-      "name": "sanduíche simples",
+      "name": "Sanduíche simples",
       "price": 7,
-      "type": "lanches",
+      "type": "Lanches",
       "id": 12,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/sandu%C3%ADche.jpg"
     },
     {
-      "name": "água 500ml",
+      "name": "Água 500ml",
       "price": 5,
-      "type": "bebidas",
+      "type": "Bebidas",
       "id": 13,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/%C3%A1gua%20500ml.jpg"
     },
     {
-      "name": "água 750ml",
+      "name": "Água 750ml",
       "price": 7,
-      "type": "bebidas",
+      "type": "Bebidas",
       "id": 14,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/%C3%A1gua%20750ml.jpg"
     },
     {
-      "name": "refrigerante lata",
+      "name": "Refrigerante lata",
       "price": 6,
-      "type": "bebidas",
+      "type": "Bebidas",
       "id": 15,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/refrigerante%20lata.jpg"
     },
     {
-      "name": "suco natural",
+      "name": "Suco natural",
       "price": 10,
-      "type": "bebidas",
+      "type": "Bebidas",
       "id": 17,
       "image": "https://raw.githubusercontent.com/geanemr/burger-queen-api-mock/main/resources/images/suco%20natural.jpg"
     }
